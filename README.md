@@ -63,7 +63,7 @@ Axios: Para rodar no navegador e no node.js com a mesma base de código, utiliza
 ## :footprints: Link da hospedazem do site na Vercel :footprints:
 https://hotel-transilvania.vercel.app/
 
-## :footprints: Link da Apresntação :footprints:
+## :footprints: Link da Apresentação :footprints:
 https://www.canva.com/design/DAFMyrywyVQ/n7VowH38DS8sVeHTDlpO9Q/edit
 
 ## :paperclip: Links Externos :paperclip:
