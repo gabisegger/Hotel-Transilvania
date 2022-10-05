@@ -1,4 +1,4 @@
-# Hotel Transilnia 
+# Hotel Transilvania 
 ## :hotel: Sobre :hotel:
 Projeto final do curso de Web Dev FullStack da Resilia Educação no qual tivemos que desenvolver um site em React.js no qual o objetivo é consumir API REST - criada no módulo 4 e transformá-la em um site.
 
