@@ -6,7 +6,7 @@ O site do Hotel Transilvania foi desenvolvido com muito carinho, pensando princi
 
 ## :heavy_check_mark:  Rotas de Aplicação  :heavy_check_mark:
 ```
-/: Pagina home onde contém um video de todo nosso hotel.
+/: Página home onde contém um video de todo nosso hotel.
 ```
 ```
 /cadastro: Momento em que é feita a coleta de dados pessoais pra poder se jeito o login e após a reserva.
