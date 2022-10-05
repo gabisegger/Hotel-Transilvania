@@ -2,14 +2,14 @@
 ## :hotel: Sobre :hotel:
 Projeto final do curso de Web Dev FullStack da Resilia Educação no qual tivemos que desenvolver um site em React.js no qual o objetivo é consumir API REST - criada no módulo 4 e transformá-la em um site.
 
-O site do Hotel Transilnia  foi desenvolvido com muito carinho, pensando principalmente na praticidade e na usabilidade corriqueira do dia a dia. Além de ser um projeto pensado em automatizar os serviços do nosso clinte!
+O site do Hotel Transilvania foi desenvolvido com muito carinho, pensando principalmente na praticidade e na usabilidade corriqueira do dia a dia. Além de ser um projeto pensado em automatizar os serviços do nosso clinte!
 
 ## :heavy_check_mark:  Rotas de Aplicação  :heavy_check_mark:
 ```
 /: Pagina home onde contém um video de todo nosso hotel.
 ```
 ```
-/cadastro: Momento em que é feita a coleta de dados pessoais pra poder se jeito o login e após a reseva.
+/cadastro: Momento em que é feita a coleta de dados pessoais pra poder se jeito o login e após a reserva.
 ```
 ```
 /login: É feito um comparativo pra ver se o email e a senha batem, com que foi realizada no cadastro.
@@ -21,10 +21,10 @@ O site do Hotel Transilnia  foi desenvolvido com muito carinho, pensando princip
 /quartos: Contém todos os quartos dispiníveis para realizar a reserva.
 ```
 ```
-/time: Todo nosso time de desnvolvimento Tech e seus demais contatos.
+/time: Todo nosso time de desenvolvimento Tech e seus demais contatos.
 ```
 ```
-/recupera: Caso a senha seja esqucida, a pessoa não precissa refazer seu cadastro, apenas a recuperaçao  de senha de acordo com seu email.
+/recupera: Caso a senha seja esquecida, a pessoa não precisa refazer seu cadastro, apenas a recuperação de senha de acordo com seu email.
 ```
 
 
